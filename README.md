@@ -6,7 +6,7 @@
 
 <h1>SAYAK PRAMANIK</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=D3D3D3&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Smart+India+Hackathon+Finalist;B.Tech+Engineering+Student" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=D3D3D3&center=true&vCenter=true&width=600&lines=Full+Stack+Developer" alt="Typing Animation" />
 
 <br><br>
 
