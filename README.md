@@ -1,26 +1,27 @@
 <div align="center">
 
-<img src="https://via.placeholder.com/800x200.png?text=Drop+Your+Custom+Banner+Image+Link+Here" alt="Custom Banner" />
+<img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1000&q=80" alt="Coding Background" width="100%" height="250" style="object-fit: cover; border-radius: 10px;" />
 
-<br>
+<br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Smart+India+Hackathon+Finalist;B.Tech+Engineering+Student" alt="Typing Animation" />
+<h1>SAYAK PRAMANIK</h1>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2eb82e&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Smart+India+Hackathon+Finalist;B.Tech+Engineering+Student" alt="Typing Animation" />
 
-<img src="https://komarev.com/ghpvc/?username=Sayak-P&label=Profile%20Views&color=blue&style=flat" alt="Sayak-P Profile Views" />
+<br><br>
+
+<a href="https://www.linkedin.com/in/sayak-pramanik-30983a297/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:pramaniksayak72@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://github.com/Sayak-P" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/GeeksForGeeks-%23298D46.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks"/></a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Sayak-P&label=PROFILE%20VIEWS&color=brightgreen&style=for-the-badge" alt="Sayak-P Profile Views" />
 
 </div>
-
-<h1 align="center">Hi 👋, I'm Sayak Pramanik</h1>
-<h3 align="center">A passionate developer from India</h3>
-
-
-###
-
-<img align="right" height="160" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFyOWdzZnBreHM3bWgzNHo1a284aW84ZmVseHh1c2Y4ZGNyMHZrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif"  />
-
-###
 - 🔭 I’m currently working on **Full-Stack Web Development & Hackathon Projects**
   
 - 🌱 I’m currently learning **Django, Node.js, React, and Firebase**
