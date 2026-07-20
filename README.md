@@ -1,4 +1,16 @@
-[![@abhinendrayadav3's Holopin board](https://holopin.me/abhinendrayadav3)](https://holopin.io/@abhinendrayadav3)
+<div align="center">
+
+<img src="https://via.placeholder.com/800x200.png?text=Drop+Your+Custom+Banner+Image+Link+Here" alt="Custom Banner" />
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Smart+India+Hackathon+Finalist;B.Tech+Engineering+Student" alt="Typing Animation" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Sayak-P&label=Profile%20Views&color=blue&style=flat" alt="Sayak-P Profile Views" />
+
+</div>
 
 <h1 align="center">Hi 👋, I'm Sayak Pramanik</h1>
 <h3 align="center">A passionate developer from India</h3>
