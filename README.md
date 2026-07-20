@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1000&q=80" alt="Coding Background" width="100%" height="250" style="object-fit: cover; border-radius: 10px;" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D3D3D3&height=250&section=header" alt="Flowing Background" width="100%" />
 
 <br><br>
 
@@ -14,19 +14,22 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="mailto:pramaniksayak72@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/></a>
+<a href="https://www.instagram.com/sayak_18_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
 
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Sayak-P&label=PROFILE%20VIEWS&color=brightgreen&style=for-the-badge" alt="Sayak-P Profile Views" />
 
 </div>
-- 🔭 I’m currently working on **Full-Stack Web Development & Hackathon Projects**
-  
-- 🌱 I’m currently learning **Django, Node.js, React, and Firebase**
 
-- 💬 Ask me about **Web Development, Data Structures, Algorithms, and Competitive Programming**  
+🔭 I’m currently working on Full-Stack Web Development & Hackathon Projects
 
-- 📫 How to reach me **pramaniksayak@gmail.com**
+🌱 I’m currently learning Django, Node.js, React, and Firebase
+
+💬 Ask me about Web Development, Data Structures, Algorithms, and Competitive Programming
+
+📫 How to reach me pramaniksayak@gmail.com
+
 
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
