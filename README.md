@@ -14,14 +14,13 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="mailto:pramaniksayak72@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/></a>
-<a href="https://www.instagram.com/sayak_18_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://www.instagram.com/sayak_18_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Sayak-P&label=PROFILE%20VIEWS&color=brightgreen&style=for-the-badge" alt="Sayak-P Profile Views" />
 
 </div>
-
 🔭 I’m currently working on Full-Stack Web Development & Hackathon Projects
 
 🌱 I’m currently learning Django, Node.js, React, and Firebase
