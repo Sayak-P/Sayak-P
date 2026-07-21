@@ -30,12 +30,6 @@
 📫 How to reach me pramaniksayak@gmail.com
 
 
-<h3 align="left">Connect with me:</h3> 
-<p align="left">
-<a href="(https://www.linkedin.com/in/sayak-pramanik-30983a297/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="(www.linkedin.com/in/sayak-pramanik-30983a297/)" height="30" width="40" /></a>
-<a href="https://instagram.com/_jodxd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_avvhii" height="30" width="40" /></a>
-</p> 
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- HTML -->
