@@ -1,12 +1,16 @@
+Got it. I have moved your name directly inside the flowing background and changed the theme color to a clean, professional blue (0077B5).
+
+I also updated the typing animation color and the profile views counter color to match the new blue theme perfectly, and I removed the extra <h1> name text from underneath so it doesn't duplicate.
+
+Here is the updated plain text. Just copy this entire block and paste it directly over the old section:
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=D3D3D3&height=250&section=header" alt="Flowing Background" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=250&section=header&text=SAYAK%20PRAMANIK&fontSize=50&fontColor=ffffff" alt="Flowing Background" width="100%" />
 
 <br><br>
 
-<h1>SAYAK PRAMANIK</h1>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=D3D3D3&center=true&vCenter=true&width=600&lines=Full+Stack+Developer" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Full+Stack+Developer" alt="Typing Animation" />
 
 <br><br>
 
@@ -18,7 +22,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Sayak-P&label=PROFILE%20VIEWS&color=brightgreen&style=for-the-badge" alt="Sayak-P Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Sayak-P&label=PROFILE%20VIEWS&color=0077B5&style=for-the-badge" alt="Sayak-P Profile Views" />
 
 </div>
 🔭 I’m currently working on Full-Stack Web Development & Hackathon Projects
