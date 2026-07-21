@@ -1,18 +1,10 @@
-Got it. I have moved your name directly inside the flowing background and changed the theme color to a clean, professional blue (0077B5).
-
-I also updated the typing animation color and the profile views counter color to match the new blue theme perfectly, and I removed the extra <h1> name text from underneath so it doesn't duplicate.
-
-Here is the updated plain text. Just copy this entire block and paste it directly over the old section:
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=250&section=header&text=SAYAK%20PRAMANIK&fontSize=50&fontColor=ffffff" alt="Flowing Background" width="100%" />
 
-<br><br>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Full+Stack+Developer" alt="Typing Animation" />
 
-<br><br>
+<br>
 
 <a href="https://www.linkedin.com/in/sayak-pramanik-30983a297/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
@@ -20,7 +12,7 @@ Here is the updated plain text. Just copy this entire block and paste it directl
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/></a>
 <a href="https://www.instagram.com/sayak_18_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
-<br><br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=Sayak-P&label=PROFILE%20VIEWS&color=0077B5&style=for-the-badge" alt="Sayak-P Profile Views" />
 
