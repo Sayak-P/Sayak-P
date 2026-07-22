@@ -65,7 +65,7 @@
 
 <h2>🐍 Contribution Snake</h2>
 <div align="center">
-<img src="https://raw.githubusercontent.com/Sayak-P/Sayak-P/output/dist/github-contribution-grid-snake.svg" alt="Sayak-P Contribution Snake" width="100%" />
+<img src="https://raw.githubusercontent.com/Sayak-P/Sayak-P/output/github-contribution-grid-snake.svg" alt="Sayak-P Contribution Snake" width="100%" />
 </div>
 
 <br clear="both">
