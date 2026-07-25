@@ -71,4 +71,15 @@
 
 </div>
 
+
+<h2>GitHub Analytics</h2>
+
+
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Sayak-P&show_icons=true&theme=tokyonight)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayak-P&layout=compact&theme=tokyonight)
+
 <br clear="both">
+
+
