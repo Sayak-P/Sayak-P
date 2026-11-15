@@ -97,19 +97,23 @@
 
 ## 📊 GitHub Analytics
 
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://your-stats.vercel.app/api?username=Sayak-P&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-
-<img width="49%" src="https://your-stats.vercel.app/api/top-langs/?username=Sayak-P&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sayak-P&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 
 <br/><br/>
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sayak-P&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<a href="https://github.com/Sayak-P">
+<img src="https://img.shields.io/badge/Visit%20My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
+
+---
 
 ## 🐍 Contribution Snake
 
