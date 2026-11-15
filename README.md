@@ -97,10 +97,6 @@
 
 ## 📊 GitHub Analytics
 
----
-
-## 📊 GitHub Analytics
-
 <div align="center">
 
 <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sayak-P&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
